@@ -4,10 +4,12 @@
 // SPECIFICATION: program that determines whether inputted number is a prime number
 // FOR: CS 1400- Assignment #4
 // TIME SPENT: 1 hour
+
 //-----------------------------------------------------------*/
 
 import java.util.Scanner;
 
+//this was made on the test branch
 public class prime {
     public static void main(String args[]) {
         boolean quit = false;
